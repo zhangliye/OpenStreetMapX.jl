@@ -1,1 +1,2 @@
 *.jl.mem
+test/data/sg_walk.osm

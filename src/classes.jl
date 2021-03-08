@@ -26,7 +26,9 @@ const ROAD_CLASSES = Dict(
     "tertiary_link" => 5,
     "living_street" => 8,
     "pedestrian" => 8,
-    "road" => 6)
+    "road" => 6,
+    
+    "footway"=>9)
 
 """
 	PED_CLASSES
